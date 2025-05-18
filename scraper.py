@@ -43,7 +43,7 @@ def enviar_email(produtos):
         print("Nenhum produto encontrado. E-mail não enviado.")
         return
 
-    yag = yagmail.SMTP(user='', password='')
+    yag = yagmail.SMTP(user='seu_email@gmail.com', password='sua_senha_app')
 
     corpo_tabela = "<table border='1' style='border-collapse: collapse;'>"
     corpo_tabela += "<tr><th>Produto</th><th>Preço</th></tr>"
@@ -60,7 +60,7 @@ def enviar_email(produtos):
     """
 
     yag.send(
-        to='',
+        to='destinatario@email.com'
         subject='Ofertas de Páscoa - Chocolates Stuttgart',
         contents=corpo_email
     )
