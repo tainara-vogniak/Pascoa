@@ -37,5 +37,6 @@ Este projeto automatiza a coleta de ofertas de barras de chocolate da loja onlin
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu_usuario/seu_repositorio.git
-cd seu_repositorio
+git clone https://github.com/tainara-vogniak/Pascoa.git
+cd Pascoa
+
