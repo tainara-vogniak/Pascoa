@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ac3726d8-55a4-474c-a32b-3ee97ac20f7a)
+
 # Automação de Coleta e Envio de Ofertas de Chocolates Stuttgart
 
 Este projeto automatiza a coleta de ofertas de barras de chocolate da loja online [Stuttgart](https://www.stuttgart.com.br/bomboniere/barras-de-chocolate.html) e envia um e-mail com os produtos encontrados, facilitando a divulgação das promoções para a Páscoa.
@@ -21,12 +23,3 @@ Este projeto automatiza a coleta de ofertas de barras de chocolate da loja onlin
 - Yagmail (para envio de e-mails via SMTP)
 - HTML para formatação do corpo do e-mail
 
----
-
-## Como usar
-
-1. **Clone o repositório:**
-
-```bash
-git clone https://github.com/seu_usuario/seu_repositorio.git
-cd seu_repositorio
